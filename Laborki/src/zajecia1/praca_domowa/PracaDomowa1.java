@@ -1,4 +1,4 @@
-package praca_domowa;
+package zajecia1.praca_domowa;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
